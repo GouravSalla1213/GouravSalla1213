@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GouravSalla1213
 - 👀 I’m interested in .Learing new things
 - 🌱 I’m currently learning .JAVA,K8s,Docker
-- 💞️  
+
 - 📫 How to reach me .goruavsalla@gmail.com
 
 <!---
