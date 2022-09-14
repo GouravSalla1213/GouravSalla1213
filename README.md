@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GouravSalla1213
 - 👀 I’m interested in .Learing new things
-- 🌱 I’m currently learning .JAVA,K8s,Docker
+- 🌱 I’m use mostly .JAVA,Python,C++,VHDL,Verilog,K8s,Docker
 
 - 📫 How to reach me .goruavsalla@gmail.com
 
