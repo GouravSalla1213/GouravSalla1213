@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GouravSalla1213
-- 👀 I’m interested in .Learing new things
+- 👀 I’m interested in Learing and keeping myself updated.
 - 🌱 I’m use mostly .JAVA,Python,Bash,C++,VHDL,Verilog,K8s,Docker
 
 - 📫 How to reach me gouravsalla@gmail.com
