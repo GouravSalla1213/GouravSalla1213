@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @GouravSalla1213
 - 👀 I’m interested in Learing and keeping myself updated.
-- 🌱 I’m use mostly .JAVA,Python,Bash,C++,VHDL,Verilog,K8s,Docker
+- 🌱 I’m use mostly JAVA,Python,Bash,C++,VHDL,Verilog
+- I have worked with tools such as K8s,Docker for creating and managing microservices on cloud.
+
+- Pursuing Masters at IITK 
 
 - 📫 How to reach me gouravsalla@gmail.com
 
