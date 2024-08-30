@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @GouravSalla1213
-- 👀 I’m interested in Learing and keeping myself updated.
-- 🌱 I’m use mostly JAVA,Python,Bash,C++,VHDL,Verilog
-- I have worked with tools such as K8s,Docker for creating and managing microservices on cloud.
+- 👀 I love Learing and sharing knowledge.
+- 🌱 I’m use mostly JAVA,Python,Bash,C++
+- I use VHDL,Verilog, System Verilog HDLs
+- I have over 2y experience with tools such as Kubernetes Docker for creating and managing microservices on cloud.
+- Certified Kubernetes Administrator (CKA- Certified by Linux Foundation)
 
-- Pursuing Masters at IITK 
+- Pursuing MTech in MVLSI at IITK (2023-25) 
 
 - 📫 How to reach me gouravsalla@gmail.com
 
